@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="Forcaste">Forecast</string>
+    <string name="MinTempature">Mintempature</string>
+    <string name="date">date</string>
+    <string name="Day">Day</string>
+    <string name="MaxTempature">MaxTempature</string>
+</resources>
